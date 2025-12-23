@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #add8e6;
+    align-items: center;
+    justify-content: center;
+    display:inline;
+}
+.value{
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    color: white;
+    display: inline;
+}
+.value div{
+    margin: 0;
+    padding: 0;
+    display: inline;
+    text-align: center;
+    color: black;
+}
+.value button{
+    color: orange;
+    background-color: blue;
+}
