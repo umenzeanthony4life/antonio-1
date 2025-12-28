@@ -1,0 +1,19 @@
+ALGORITHM array_sum
+VAR
+   i: 3,1,7,9{INTEGER};
+   j:2,4,1,9,3{INTEGER};
+BEGIN
+   Read(i)
+   Read(j)
+   sum:= i+j
+   Write(sum)
+END
+
+
+
+
+
+
+
+
+   
